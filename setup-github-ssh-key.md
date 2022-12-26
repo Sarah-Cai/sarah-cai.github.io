@@ -1,6 +1,8 @@
+---
 layout: page
 title: "配置github ssh key"
 permalink: /others/github-ssh-key
+---
 
 ### 1. 查看本地是否存在SSH Key
 终端：ls -al ~/.ssh  

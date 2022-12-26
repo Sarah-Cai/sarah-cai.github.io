@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "建立本地和github的信任!"
+title:  "Set Github SSH Key!"
 date:   2022-12-26 22:10:48 +0800
 categories: jekyll update
 ---
